@@ -2,3 +2,4 @@ Created new file
 Added few lines
 Adding lines from feature/first branch
 Adding another line from feature/first branch
+Lines from rc branch
